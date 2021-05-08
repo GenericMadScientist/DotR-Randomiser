@@ -3,6 +3,8 @@ DotR Randomiser
 
 This is the Duelists of the Roses Randomiser, currently Version Alpha 0.2.
 
+This repository has now been archived and I am not interested in receiving any contributions. If you wish to make your own randomiser I would suggest starting from scratch, but feel free to fork and maintain this yourself if you wish.
+
 Usage
 -----
 
